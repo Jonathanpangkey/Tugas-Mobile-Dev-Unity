@@ -1,6 +1,6 @@
 # tugas_unity
 
-A new Flutter project.
+Simple Homepage
 
 ## Getting Started
 
